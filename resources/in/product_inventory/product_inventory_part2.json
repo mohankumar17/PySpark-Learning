@@ -1,0 +1,72 @@
+[
+    {
+        "ProductID": "P011",
+        "ProductName": "Razer DeathAdder V2",
+        "Category": "Accessories",
+        "Stock": 100,
+        "Price": 69
+    },
+    {
+        "ProductID": "P012",
+        "ProductName": "Google Pixel 8",
+        "Category": "Smartphone",
+        "Stock": 40,
+        "Price": 799
+    },
+    {
+        "ProductID": "P013",
+        "ProductName": "Lenovo Yoga 9i",
+        "Category": "Laptop",
+        "Stock": 25,
+        "Price": 1499
+    },
+    {
+        "ProductID": "P014",
+        "ProductName": "Sony A7 III",
+        "Category": "Camera",
+        "Stock": 10,
+        "Price": 1999
+    },
+    {
+        "ProductID": "P015",
+        "ProductName": "Canon EOS R6",
+        "Category": "Camera",
+        "Stock": 8,
+        "Price": 2499
+    },
+    {
+        "ProductID": "P016",
+        "ProductName": "DJI Mavic Air 2",
+        "Category": "Drone",
+        "Stock": 15,
+        "Price": 799
+    },
+    {
+        "ProductID": "P017",
+        "ProductName": "Microsoft Surface Pro 9",
+        "Category": "Tablet",
+        "Stock": 18,
+        "Price": 999
+    },
+    {
+        "ProductID": "P018",
+        "ProductName": "Samsung Galaxy Tab S9",
+        "Category": "Tablet",
+        "Stock": 20,
+        "Price": 849
+    },
+    {
+        "ProductID": "P019",
+        "ProductName": "Sony PlayStation 5",
+        "Category": "Gaming Console",
+        "Stock": 50,
+        "Price": 499
+    },
+    {
+        "ProductID": "P020",
+        "ProductName": "Xbox Series X",
+        "Category": "Gaming Console",
+        "Stock": 45,
+        "Price": 499
+    }
+]

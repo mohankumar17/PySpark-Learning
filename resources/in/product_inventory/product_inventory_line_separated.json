@@ -1,0 +1,20 @@
+{"ProductID": "P001", "ProductName": "Apple iPhone 15", "Category": "Smartphone", "Stock": 50, "Price": 999}
+{"ProductID": "P002", "ProductName": "Samsung Galaxy S23", "Category": "Smartphone", "Stock": 30, "Price": 899}
+{"ProductID": "P003", "ProductName": "Sony WH-1000XM5", "Category": "Headphones", "Stock": 100, "Price": 299}
+{"ProductID": "P004", "ProductName": "Dell XPS 13", "Category": "Laptop", "Stock": 20, "Price": 1199}
+{"ProductID": "P005", "ProductName": "HP Spectre x360", "Category": "Laptop", "Stock": 15, "Price": 1399}
+{"ProductID": "P006", "ProductName": "Bose QuietComfort 45", "Category": "Headphones", "Stock": 80, "Price": 329}
+{"ProductID": "P007", "ProductName": "Apple Watch Series 9", "Category": "Wearable", "Stock": 60, "Price": 499}
+{"ProductID": "P008", "ProductName": "Samsung Galaxy Watch 6", "Category": "Wearable", "Stock": 70, "Price": 399}
+{"ProductID": "P009", "ProductName": "Kindle Paperwhite", "Category": "E-Reader", "Stock": 120, "Price": 129}
+{"ProductID": "P010", "ProductName": "Logitech MX Master 3", "Category": "Accessories", "Stock": 90, "Price": 99}
+{"ProductID": "P011", "ProductName": "Razer DeathAdder V2", "Category": "Accessories", "Stock": 100, "Price": 69}
+{"ProductID": "P012", "ProductName": "Google Pixel 8", "Category": "Smartphone", "Stock": 40, "Price": 799}
+{"ProductID": "P013", "ProductName": "Lenovo Yoga 9i", "Category": "Laptop", "Stock": 25, "Price": 1499}
+{"ProductID": "P014", "ProductName": "Sony A7 III", "Category": "Camera", "Stock": 10, "Price": 1999}
+{"ProductID": "P015", "ProductName": "Canon EOS R6", "Category": "Camera", "Stock": 8, "Price": 2499}
+{"ProductID": "P016", "ProductName": "DJI Mavic Air 2", "Category": "Drone", "Stock": 15, "Price": 799}
+{"ProductID": "P017", "ProductName": "Microsoft Surface Pro 9", "Category": "Tablet", "Stock": 18, "Price": 999}
+{"ProductID": "P018", "ProductName": "Samsung Galaxy Tab S9", "Category": "Tablet", "Stock": 20, "Price": 849}
+{"ProductID": "P019", "ProductName": "Sony PlayStation 5", "Category": "Gaming Console", "Stock": 50, "Price": 499}
+{"ProductID": "P020", "ProductName": "Xbox Series X", "Category": "Gaming Console", "Stock": 45, "Price": 499}
